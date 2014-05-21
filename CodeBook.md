@@ -681,6 +681,6 @@ c. expand definition of 'f' into 'freq' and 't' into 'time'
 
 
 __4. Create Tidy Data__  
-The last process is create tidy data using melt. This data set contains average of each feature variable for each activity and each subject.  
+The last process is create tidy data using melt. This data set contains average of each feature variable for each activity and each subject. The method that is used is 'melt' and 'dcast' function. After that write the data into UCI_HAR_tidydata.txt file.  
 
 For detail code please find run_analysis.R
