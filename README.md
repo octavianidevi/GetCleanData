@@ -23,4 +23,7 @@ In this project the data set that is used are below
 * 'test/y_test.txt': Test labels.
 * 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
+__Purpose__  
+In this project, we process the data of Human Activity Recognition Using Smartphones Datasets into tidy data. There are several features that are provided in this data set, but only mean and standard deviation features will be used.   
+
 Please read CodeBook to know how to process the data.

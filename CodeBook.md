@@ -680,6 +680,7 @@ b. Change '-' into '.'
 c. expand definition of 'f' into 'freq' and 't' into 'time'  
 
 
-__4. Xreate Tidy Data__  
+__4. Create Tidy Data__  
 The last process is create tidy data using melt. This data set contains average of each feature variable for each activity and each subject.  
 
+For detail code please find run_analysis.R
